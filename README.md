@@ -81,7 +81,7 @@ https://github.com/pavankumarvn1818/Grama-Kalyana-Sports.git
 
 ## Author
 
-Ananya Raghav
+Pavan Kumar VN
 
 GitHub Repository:
 [https://github.com/pavankumarvn1818/Grama-Kalyana-Sports.git](https://github.com/pavankumarvn1818/Grama-Kalyana-Sports.git)
