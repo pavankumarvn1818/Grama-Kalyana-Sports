@@ -55,7 +55,7 @@ settings.gradle.kts
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Ananya-raghav/Grama-Kalyana-Sports.git
+https://github.com/pavankumarvn1818/Grama-Kalyana-Sports.git
 ```
 
 2. Open the project in Android Studio.
@@ -84,4 +84,4 @@ git clone https://github.com/Ananya-raghav/Grama-Kalyana-Sports.git
 Ananya Raghav
 
 GitHub Repository:
-[https://github.com/Ananya-raghav/Grama-Kalyana-Sports](https://github.com/Ananya-raghav/Grama-Kalyana-Sports)
+[https://github.com/pavankumarvn1818/Grama-Kalyana-Sports.git](https://github.com/pavankumarvn1818/Grama-Kalyana-Sports.git)
